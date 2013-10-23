@@ -1,6 +1,6 @@
 {
   "name": "lie-map",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "map all the lies",
   "main": "lib/map.js",
   "scripts": {
@@ -31,6 +31,7 @@
   "dependencies": {
     "lie-resolve": "~0.1.0",
     "lie-use": "~0.1.0",
-    "lie-all": "~0.1.0"
+    "lie-all": "~0.1.0",
+    "lie-quickmap":"~0.1.0"
   }
 }
